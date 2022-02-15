@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 redis = "*"
 fastapi = "*"
+uvicorn = "*"
+python-decouple = "*"
 
 [dev-packages]
 
